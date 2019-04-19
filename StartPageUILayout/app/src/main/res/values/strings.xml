@@ -1,10 +1,14 @@
 <resources>
     <string name="app_name">StartPageUILayout</string>
-    <string name="todo">TODO</string>
-    <string name="todo">TODO</string>
+    <string name="banner"></string>
+    <string name="logo">TODO</string>
     <string name="textview">TextView</string>
     <string name="devslopers">Devslopers</string>
-    <string name="todo">TODO</string>
-    <string name="todo">TODO</string>
-    <string name="todo">TODO</string>
+    <string name="camera">ImageView</string>
+    <string name="favoritebutton">ImageView</string>
+    <string name="mailpic">ImageView</string>
+    <string name="data">ImageView</string>
+    <string name="picture">ImageView</string>
+    <string name="video">ImageView</string>
+    <string name="code">ImageView</string>
 </resources>
