@@ -4,4 +4,4 @@ BitDegree Course. Kotlin Tutorial for a Beginner: Learn How to make an Android A
 
 App purpose is indroduction to the Kotlin programming. You can add you favorite woods.
 
-[logo]: /images/icon48.png "DinnerApp main view"
+[logo]: /images/BasicView.png "DinnerApp main view"
