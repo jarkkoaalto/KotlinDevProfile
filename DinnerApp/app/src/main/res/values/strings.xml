@@ -3,4 +3,8 @@
     <string name="chineese">Chineese</string>
     <string name="string_chinese">string/Chinese</string>
     <string name="chinese">Chinese</string>
+    <string name="add_food">ADD FOOD</string>
+    <string name="decide">DECIDE!</string>
+    <string name="add_new_food">Add new Food ...</string>
+    <string name="todo">TODO</string>
 </resources>
