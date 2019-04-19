@@ -39,6 +39,30 @@
             app:layout_constraintStart_toEndOf="@+id/logo"
             app:layout_constraintTop_toBottomOf="@+id/banner"
             android:textSize="24sp" android:layout_marginTop="20dp"/>
+    <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp" app:srcCompat="@drawable/camerabutton"
+            tools:layout_editor_absoluteY="271dp" android:id="@+id/camera"
+            app:layout_constraintStart_toStartOf="parent" app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintEnd_toStartOf="@+id/favorics" android:contentDescription="@string/todo"
+            app:layout_constraintHorizontal_chainStyle="spread"/>
+    <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp" app:srcCompat="@drawable/favoritebutton"
+            android:id="@+id/favorics"
+            app:layout_constraintStart_toEndOf="@+id/camera" app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintEnd_toStartOf="@+id/mail" android:contentDescription="@string/todo"
+            app:layout_constraintTop_toTopOf="@+id/camera" app:layout_constraintBottom_toBottomOf="@+id/camera"
+            android:layout_marginEnd="16dp" android:layout_marginStart="16dp"/>
+    <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp" app:srcCompat="@drawable/inboxbutton"
+            android:id="@+id/mail"
+            app:layout_constraintStart_toEndOf="@+id/favorics" app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintEnd_toEndOf="parent" android:contentDescription="@string/todo"
+            app:layout_constraintBottom_toBottomOf="@+id/favorics"
+            app:layout_constraintVertical_bias="1.0" android:layout_marginTop="36dp"
+            app:layout_constraintTop_toBottomOf="@+id/logo"/>
 </android.support.constraint.ConstraintLayout>
 
 
