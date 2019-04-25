@@ -10,3 +10,7 @@ App purpose is indroduction to the Kotlin programming. You can add you favorite 
 ## Frontpage UI
 
 ![logo](/images/Front_page_UI.png)
+
+## Frontpage UI Tablet 10.1
+
+![logo](/images/Tablet_UI.png)
