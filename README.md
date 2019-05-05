@@ -22,16 +22,16 @@ Building app SWOOSH
 Layouts:
 1. welcome screen 
 2. Getstarted
- * Mens 
- * Womens 
- * Go On 
- * Next
+ ..* Mens 
+ ..* Womens 
+ ..* Go On 
+ ..* Next
 3.Skill level
-* Beginner
-* Advanced
-* Next
+..* Beginner
+..* Advanced
+..* Next
 4. Looking
-* Looking for a mens beginner league near you ... that doesen't do nothing
+..* Looking for a mens beginner league near you ... that doesen't do nothing
 
 ##### Learning activities #####
 * Deep dive Activity Lifecycle
