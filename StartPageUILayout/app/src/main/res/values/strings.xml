@@ -11,4 +11,5 @@
     <string name="picture">ImageView</string>
     <string name="video">ImageView</string>
     <string name="code">ImageView</string>
+    <string name="color">TODO</string>
 </resources>
