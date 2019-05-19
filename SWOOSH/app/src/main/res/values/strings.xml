@@ -9,4 +9,14 @@
     <string name="get_started">Get Started</string>
 
     <string name="main_img">TODO</string>
+    <string name="Designleague">TODO</string>
+    <string name="desired_league">Desired League</string>
+    <string name="mens">Mens</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="go_ed">Go-ed</string>
+    <string name="toggle1button">ToggleButton</string>
+    <string name="womens">Womens</string>
+    <string name="toggle2button">ToggleButton</string>
+    <string name="button">Button</string>
+    <string name="next">Next</string>
 </resources>
